@@ -1,2 +1,2 @@
 # fibonacci
-oh how i hate writing the code for the fibonacci sequence, its like very hw assignment we have to do this  (no offense) 
+the amount of times i've had to write this code for hw problems or wtv is unholy 
